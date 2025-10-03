@@ -4,7 +4,7 @@ A full-stack Task Manager Application built with:
 
 - Backend: Node.js, Express.js  
 - Frontend: React (Vite)  
-- Database: (add MongoDB / MySQL / PostgreSQL here if you’re using one)  
+- Database: (MongoDB)
 
 ---
 
